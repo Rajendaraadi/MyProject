@@ -1,0 +1,4 @@
+#excluding files
+*.class
+*.settings
+*.project
